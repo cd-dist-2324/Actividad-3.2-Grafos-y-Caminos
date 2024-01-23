@@ -149,7 +149,7 @@ public class Actividad3_3 {
 
     public static void main(String[] args) throws Exception {
 
-        App app = new App();
+        Actividad3_3 app = new Actividad3_3();
         float resultado_division = app.calcularDivision(3, 2);
 
         byte entrada = 3;
